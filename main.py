@@ -1,2 +1,2 @@
-str=input("Введите 10 слов")
-print(str.upper())
+str=input("Введите 10 слов") #ввод строки
+print(str.upper()) #изменение регистра
